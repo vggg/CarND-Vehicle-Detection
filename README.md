@@ -17,6 +17,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./output_images/car_not_car.png
 [image2]: ./output_images/HOG_example.png
+[image2_1]: ./output_images/HOG_example1.png
 [image3]: ./output_images/sliding_windows.jpg
 [image4]: ./output_images/sliding_window.jpg
 [image5]: ./output_images/bboxes_and_heat.png
@@ -47,6 +48,7 @@ Here is an example using the `YCrCb` color space and HOG parameters of `orientat
 
 
 ![alt text][image2]
+![alt text][image2_1]
 
 #### 2. Explain how you settled on your final choice of HOG parameters.
 
